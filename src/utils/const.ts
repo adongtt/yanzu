@@ -87,6 +87,7 @@ const MAX_SPEED_TITLE = IS_CHINESE ? '最快速度' : 'Max Speed';
 const TOTAL_TIME_TITLE = IS_CHINESE ? '总时间' : 'Total Time';
 const AVERAGE_SPEED_TITLE = IS_CHINESE ? '平均速度' : 'Average Speed';
 const TOTAL_DISTANCE_TITLE = IS_CHINESE ? '总距离' : 'Total Distance';
+const TOTAL_ELEVATION_TITLE = IS_CHINESE ? '总爬升' : 'Total Elevation';
 const YEARLY_TITLE = IS_CHINESE ? 'Year' : 'Yearly';
 const MONTHLY_TITLE = IS_CHINESE ? 'Month' : 'Monthly';
 const WEEKLY_TITLE = IS_CHINESE ? 'Week' : 'Weekly';
