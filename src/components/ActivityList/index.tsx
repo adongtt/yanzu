@@ -113,6 +113,7 @@ const ActivityCard: React.FC<ActivityCardProps> = ({ period, summary, dailyDista
             <h2 className={styles.activityName}>{period}</h2>
             <div className={styles.activityDetails}>
                 <p><strong>{ACTIVITY_TOTAL.TOTAL_DISTANCE_TITLE}:</strong> {summary.totalDistance.toFixed(2)} km</p>
+                <p><strong>{ACTIVITY_TOTAL.TOTAL_ELEVATION_TITLE}:</strong> {summary.totalElevation.toFixed(2)} km</p>
                 <p><strong>{ACTIVITY_TOTAL.AVERAGE_SPEED_TITLE}:</strong> {isFastType(activityType) ? `${summary.averageSpeed.toFixed(2)} km/h` : formatPace(summary.averageSpeed)}</p>
                 <p><strong>{ACTIVITY_TOTAL.TOTAL_TIME_TITLE}:</strong> {formatTime(summary.totalTime)}</p>
                 {interval !== 'day' && (
