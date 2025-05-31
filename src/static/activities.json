@@ -20465,7 +20465,7 @@
 },
 {
 "run_id": 14638050536,
-"name": "Morning Trail Run \ud83c\udf1e",
+"name": "2025\u9e6d\u5c9b\u5f84\u8def\u7ebf",
 "distance": 21911.3,
 "moving_time": "4:26:41",
 "type": "Run",
@@ -20478,5 +20478,21 @@
 "elevation_gain": 1048.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14649051746,
+"name": "Afternoon Ride",
+"distance": 21217.6,
+"moving_time": "1:45:17",
+"type": "Ride",
+"start_date": "2025-05-31 06:51:04+00:00",
+"start_date_local": "2025-05-31 14:51:04",
+"location_country": "\u91d1\u5c1a\u8def, \u6797\u540e, \u6c5f\u5934\u8857\u9053, \u91d1\u5c1a, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "mbotC_qapUv@LfA`@t@FrAZNQ?XCAVJb@Hd@Av@Tt@Af@Rx@Dh@LpCJxFf@nBLh@K`A\\|Df@dEx@dAQl@`@dAV`[fFf@@`@INHBTVLn@?Ja@RcCF_BTiCA_@P{AAe@d@{CH{Cf@uGAo@Dq@LaICeABw@Jc@M[?q@B]Xa@Uk@Ag@HoIHc@N}EEo@HcDjBaMBm@~A}KPy@JKAk@Jy@hB_M\\yADc@GKFQlAqDvAgFtAeD~@_DpAmDRmAT[`@cAfAoDZo@Jk@^iAR[ZkACk@vAkDRw@Bc@X_@rAwE`AeCb@{AF_AbCgG\\mAd@}@f@wALMd@AnKlEP?Xw@b@Eb@i@dAsDhJcYHML?t@TH?Xg@Je@RGrD`CjExCdBtAlFjDrDtCrCfCrDzDjBxB`E~FvDfHn@j@b@r@lCvFxB|Db@f@hB`DnAjBtCzDjRtS`BrBjC~DrAbB`GtMfDdGzCjEbFjGvBbCh@x@hAlBp@bBRTb@bAbArCbArA`@lANnAVbAhAbCl@dAlCpDjAlAdA|@R\\pAdAfAlALThIfIzAlBn@bAbAzB|@rCd@~@Av@p@nFPhARb@H`@FzA`A~ElB|DlBtCl@n@r@ZZf@dAj@VXt@d@jAf@vBp@|FfAzA^@D@E?JCEDAG?r@LlHtBvBfAhA`Az@z@tA|Bd@fA`@bBZjBJ`B?lBYbCI~AMt@Kb@{AxDWjBE|@Q|@}@jBQhAChDBdBAbIM`EBf@}@bFu@`Ci@|@[bAK@i@hAqB~BcCpEyBfDk@jAq@jB]fBIr@IxB@lCIlC]rBcCxKk@zEArAm@fEE`@DBi@tEMbDe@zAI`AmAxEE^g@tA}@hAkArFSf@[hBOnAm@dBkAhEm@zAQv@M|Bu@`DAx@CJDTSXIfBPV|A\\\\h@HZiAxOQhAE|C_@zDc@fCm@nFi@zCCv@WzA[fAKVNV?`@L\\EZMXeD|D}AxAsFjG}BlB{ClCaBjAkCvCa@JyA`A}Ar@wExAu@Im@a@s@{@]IcAf@RxA?^UfA_@b@oB~@aEzA}CjBaBb@[NQCKM[e@CMBGDBCGg@_@CIALa@j@kCtCiD~BiCdAe@Ju@Bc@^e@?o@`AuA~AsAhCq@hAwAfBML_@@a@Ra@jAc@P]h@MDKd@u@t@c@bAMF",
+"average_heartrate": 85.6,
+"average_speed": 3.359,
+"elevation_gain": 101.0,
+"source": "strava",
+"streak": 2
 }
 ]
