@@ -2190,7 +2190,7 @@ export const chinaCities: ICity[] = [
   },
   {
     code: '810000',
-    name: '香港特别行政区',
+    name: '香港',
     province: '81',
   },
   {
