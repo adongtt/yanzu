@@ -674,7 +674,7 @@ export const chinaCities: ICity[] = [
   },
   {
     code: '350200',
-    name: '厦门市',
+    name: '厦门1市',
     province: '35',
     city: '02',
   },
