@@ -21038,5 +21038,21 @@
 "elevation_gain": 94.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15172036883,
+"name": "Lunch Ride \u2601\ufe0f",
+"distance": 7439.6,
+"moving_time": "0:48:07",
+"type": "Ride",
+"start_date": "2025-07-20 03:02:36+00:00",
+"start_date_local": "2025-07-20 11:02:36",
+"location_country": "\u4e2d\u798f\u57ce, \u6c5f\u5934\u8857\u9053, \u91d1\u5c1a, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "qiotCyxapUD?DL^f@JDRBA`@Or@BLEPzAd@hATj@RT@LDVDvAZj@Dd@LH@~@^N@VCHBHHfAPPI\\Nt@DVN`@?fAJP?rANx@BTD^?z@F`@F~@Dh@?`@FREBGEKBKAa@@wAGwD?c@Am@CwCHgAE{B?i@Cy@@{@Rw@Fi@Lm@`@gATm@bAcB`@}@JSDUCGMEmAO_ASkASmCu@q@@i@YYKQQUMUG_Aa@MCGB@@JEL?JCNFBPORCHBBB?HBXANITUPCh@N`@Dh@TdAVp@XVNHDpAVPHhBXT@^DXATIHGV]XS^Cz@DNATKNSRO^Gv@JTJ^FbADPEP?RBVJPZTNTJVBn@VTBXHVAH@p@EbAFx@A~@OpAPb@Jf@Dr@?FCn@Cj@B`@Gb@@p@Eb@BND^BJ?TIRKLQFWBY@]CuADwACq@N}D?[AMDi@?a@DqA@_FHk@FgAV{AJWJKFEP?VMNKNUFUNkAAGMC]GCDIEC@?OGCOAUBDFVBHB`@^F@BC?MFC\\D@@ADCGEB@GGDKtAQ\\KJ]H[LGHAXIZEDMl@EFC`@INCL?VBz@C\\BRGRE`@@TE~@C`BKfBBRCh@@jAG~@EXBt@CRBJCH@\\@J@??PDP?z@GTEJYXe@Pi@ES?[Ee@Du@Bo@E_B?c@Gm@A[@eFK]BkBCuAY]ASKIIO[KKmAKe@@KBOAQCk@Ue@ES?QDQLMNUJ]@[AK@ICWBEASFQLOVSLYDUCw@?_@G[CoAYkHeCM?WDm@XQBOCC@EE@Qg@k@A?H?TFYCU@@HBCC@@B@CLDd@Vd@HBDFVFBDFA\\CPaAzB[l@w@rBWf@?HOZYpAq@`CI^Ir@C@}@Mo@SQAi@O_@O_AOWIMBMLCFIt@Ap@EXAHY`@IPKhAIROhAU^KhA]|@KBo@Ia@O}@Wo@KKEKU@ED??A",
+"average_heartrate": 92.4,
+"average_speed": 2.577,
+"elevation_gain": 43.0,
+"source": "strava",
+"streak": 2
 }
 ]
