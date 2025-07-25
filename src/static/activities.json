@@ -21134,5 +21134,21 @@
 "elevation_gain": 221.0,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 15230400658,
+"name": "Afternoon Run \ud83c\udf25\ufe0f",
+"distance": 5054.8,
+"moving_time": "0:35:11",
+"type": "Run",
+"start_date": "2025-07-25 09:36:25+00:00",
+"start_date_local": "2025-07-25 17:36:25",
+"location_country": "\u69df\u57ce\u9053, \u91d1\u5c71\u8857\u9053, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "uhwtC}ghpUAD_@EQGe@Be@Qa@Ki@@i@EOEy@[o@G[B[JSN_@D_@LgAr@MPWVCJ[^]h@m@nAc@fAMAGAWUa@COGUEEE@GTy@`@kANYn@uBZm@Vw@`BaDT_@\\o@n@_ALUpCaD~@{@`@k@b@]p@w@|AyAf@i@PY^Yj@s@zAuAHQlAkArAyAb@a@vA}AvAqA`CiBd@Y`@g@@CAEYKw@o@[MOm@CM?e@BMRWFSl@w@bAcBz@gApAy@pAi@XETEd@DRHZXFFB?JRJFVTBFv@n@Tb@@LTLFHF@Nb@D\\GTAZEVWN}@P]B_Cp@g@Ve@PWDo@Xm@^SFQNSJU@GCOMCAGBUXSNm@Zo@j@o@`@g@b@STy@t@}@bAo@l@w@|@YTi@n@cB`Bk@p@A?g@^e@d@oAxA[TUXaBbBGJuBrBw@~@CHu@t@mBzCUVg@`AGVKLOXw@~B[p@Kd@Qd@GXINQr@a@bA@Bb@ZZHJAFDJHPCVa@r@cB^q@t@iAn@o@h@U`AWNUXIPA|@Fj@Pt@PX@\\EH@~@Xv@?`@Db@JV@TEXBTD@FB@?@AA@A\\FH?@A@@",
+"average_heartrate": 143.9,
+"average_speed": 2.395,
+"elevation_gain": 11.0,
+"source": "strava",
+"streak": 4
 }
 ]
