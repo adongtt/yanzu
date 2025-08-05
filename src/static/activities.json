@@ -21230,5 +21230,21 @@
 "elevation_gain": 25.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 15353143287,
+"name": "Evening Hike \ud83c\udf2c",
+"distance": 4443.3,
+"moving_time": "1:04:09",
+"type": "Hike",
+"start_date": "2025-08-05 12:49:14+00:00",
+"start_date_local": "2025-08-05 20:49:14",
+"location_country": "\u51e4\u5934, \u91d1\u5c71\u8857\u9053, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "_swtCajhpUAGICaAGYTa@JK@IMOq@AUM[@MhAqBPQP]Z_@JQZWR]bAaAPYVYn@i@`@g@JGd@k@l@g@^e@TWLGdAoAXQj@q@ZEL@PLNTZZ~@r@|Av@p@NL?VLzAHb@A^D^GV@LIZGb@ONKPEb@@XJRNLVHdAFXJTBX?pALx@JrBJRLx@JRB@PInAYP?NEz@Kb@?TCn@Bd@CTB`@@NDn@Hh@Nr@JrAh@VR^n@n@^Nd@x@b@JJBJEdA@NPx@Tf@Ld@R`@LNP^VPNRTb@`@Tb@ZLB`@b@ZRXDRHL?RHfAHRFh@HPA\\@Z?FCHGX@^Gn@TPP\\LXRZ^Tl@F^Nd@BVj@dBXzADJLDRTPJB?DM?GCDBCCA?B@GA@?@FCJ?EDCH@JDDh@Tj@Nz@J~@PZBpATTHXPVFZRXb@HHHTHHNr@DtADXDbA\\jBVt@VZPJXXXFh@VZF\\NRFx@`@`@b@`@ZJPLJRj@Vj@BRHPb@hDHZDHJHF\\PZNTTb@XXl@rAPj@PXb@jAFZJN^xA^lAFb@B|@KZSTE^@@CVGN@CN@NPHPPLPLLALFJCBINB\\QJY\\NBLD@",
+"average_heartrate": 97.8,
+"average_speed": 1.154,
+"elevation_gain": 10.0,
+"source": "strava",
+"streak": 1
 }
 ]
