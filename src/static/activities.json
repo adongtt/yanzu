@@ -21246,5 +21246,21 @@
 "elevation_gain": 10.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15360388072,
+"name": "Lunch Run \ud83c\udf25\ufe0f\ud83e\udd75\ufe0f",
+"distance": 3027.2,
+"moving_time": "0:19:13",
+"type": "Run",
+"start_date": "2025-08-06 03:59:02+00:00",
+"start_date_local": "2025-08-06 11:59:02",
+"location_country": "\u5927\u7901, \u83b2\u524d\u8857\u9053, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 360008, \u4e2d\u56fd",
+"summary_polyline": "w{mtCankpUDD@IBAZ@XLTDv@?~@H|AVtBl@X@b@MXQFALBTRd@VRDbAd@nAd@l@Nl@TNBd@P`@JjAh@PLNBl@VPBh@Xf@Lz@^b@JXAPDdAd@hDjAz@b@z@XLH\\f@p@T^Vt@TzAt@`@Ld@HLJf@P`Af@ZTJPFDHDb@?JDdExBTNVFfBdALNAT@HLFLBPSHC\\?XDR?`ARrAh@z@f@RJ`FpDfA|AjAx@Z^F?~@_B@CF@bBjAhDxBlDbCRPtAx@b@\\bAp@\\Nz@r@h@XbAt@v@d@PN^P~@t@nBlATl@?JEVEBUl@IB",
+"average_heartrate": 146.5,
+"average_speed": 2.625,
+"elevation_gain": 1.0,
+"source": "strava",
+"streak": 2
 }
 ]
