@@ -21249,7 +21249,7 @@
 },
 {
 "run_id": 15360388072,
-"name": "Lunch Run \ud83c\udf25\ufe0f\ud83e\udd75\ufe0f",
+"name": "8\ud83c\ude37\ufe0f\u7b2c\u4e00\u8dd1",
 "distance": 3027.2,
 "moving_time": "0:19:13",
 "type": "Run",
@@ -21260,6 +21260,22 @@
 "average_heartrate": 146.5,
 "average_speed": 2.625,
 "elevation_gain": 1.0,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 15362633217,
+"name": "Afternoon Hike \ud83c\udf25\ufe0f\ud83e\udd75\ufe0f",
+"distance": 2755.3,
+"moving_time": "0:54:28",
+"type": "Hike",
+"start_date": "2025-08-06 08:31:10+00:00",
+"start_date_local": "2025-08-06 16:31:10",
+"location_country": "\u6587\u5174\u897f\u8def, \u83b2\u524d\u8857\u9053, \u524d\u57d4\u6751, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361008, \u4e2d\u56fd",
+"summary_polyline": "kdktCckcpUD?BJKb@D`@Id@?n@AF@FH@x@h@H@?@HARBNFbAPDD?\\F@@CH?FBBDD@JEVFNGJWLENOT@LK\\EXIBCBQBIp@_@J?FFPC^@LFA?J@LHREFEJDDID[TOBAH@@CBIA_@GMFGBK`@YLANO?S@EVGBKLAN@TOJB@JHCHEHHFC@KOYBGTGBCLCA@F@?@AEBAF@LHX@BBBNPK@BPBDAJDd@FHKFCh@@HG@MRKFM\\[@GEABOVIKKOA@@GEDB?G@FL?JIACFWCG?SDGBGPKBGMKAMI@KES]C@CCAOBOISA]OMCQUQCQKCGGBIHB@??A@B@AA?PABABKOUECD@AC@CKHE@AEJGO?QMNKEKDIFEN@DE@SGMICAYGIAICEMCIQOKGOC[OGCG?IGIQiAKOJMIKMa@DNCOOGE[We@D]Kk@AUEGCQKI@_@AOUq@F_@G]CCYDMOAwASu@S]MMDQHGEYZk@HMt@q@?CGK@Ep@QAIGECGBCA@@ICGBIDEASCEMCKIRc@CMMO@BAID@IOYM[AE@QAKIKw@?[Dk@J[@O@GEC@CSN?@WJQPKDI?KGg@H@ICGDAAHA]A@F}@A_@DSL[f@o@RCJDGEB?ICAKJm@Cy@CB?AB?DD",
+"average_heartrate": 124.6,
+"average_speed": 0.843,
+"elevation_gain": 224.0,
 "source": "strava",
 "streak": 2
 }
