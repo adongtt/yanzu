@@ -21665,7 +21665,7 @@
 },
 {
 "run_id": 15622536562,
-"name": "Afternoon Hike \ud83c\udf1e\ud83e\udd75\ufe0f",
+"name": "0.5loop@\u78e8\u5fc3\u5c71",
 "distance": 2362.4,
 "moving_time": "0:49:33",
 "type": "Hike",
@@ -21681,7 +21681,7 @@
 },
 {
 "run_id": 15624797688,
-"name": "Afternoon Trail Run \ud83c\udf1e\ud83e\udd75\ufe0f",
+"name": "1loop@\u78e8\u5fc3\u5c71",
 "distance": 4416.2,
 "moving_time": "1:16:27",
 "type": "Run",
@@ -21729,7 +21729,7 @@
 },
 {
 "run_id": 15657202873,
-"name": "Afternoon Trail Run \u2601\ufe0f",
+"name": "1loop@\u78e8\u5fc3\u5c71",
 "distance": 4163.8,
 "moving_time": "1:15:01",
 "type": "Run",
@@ -21745,7 +21745,7 @@
 },
 {
 "run_id": 15669382663,
-"name": "Afternoon Trail Run \u2601\ufe0f\ud83e\udd75\ufe0f",
+"name": "1.5loop@\u78e8\u5fc3\u5c71",
 "distance": 5961.8,
 "moving_time": "1:37:44",
 "type": "Run",
@@ -21793,7 +21793,7 @@
 },
 {
 "run_id": 15701102048,
-"name": "Afternoon Trail Run",
+"name": "2 loop@\u78e8\u5fc3\u5c71",
 "distance": 8004.8,
 "moving_time": "2:00:38",
 "type": "Run",
