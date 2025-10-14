@@ -22350,5 +22350,21 @@
 "elevation_gain": 1138.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16126811836,
+"name": "Evening Run \ud83c\udf19\ud83e\udd75\ufe0f",
+"distance": 2047.6,
+"moving_time": "0:14:58",
+"type": "Run",
+"start_date": "2025-10-13 12:16:22+00:00",
+"start_date_local": "2025-10-13 20:16:22",
+"location_country": "\u91d1\u5c1a\u5c0f\u533a, \u6c5f\u5934\u8857\u9053, \u91d1\u5c1a, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "snotCmuapUA@QGg@AqAc@uASMGK?WIS?_@KOI]KMAOK_@GIICQNm@@m@P_@Ba@Pw@T_B`@kBLQBMB[C[NK\\qAJeAh@mCHs@Ja@J{@HQBAb@BXJZDj@Px@JRHz@PXL`@HNAVHRJt@H`AVt@Lr@RL?ZD^LXBJF`AP^RHNFRE\\?FBDOrAOd@EXMVG\\OZKb@EP@XE\\Kb@Uh@IlA]`AMjAGZQt@Mr@E`@MZQ|@INGFG@g@IEFKBs@Mm@Q]CMGWA_@We@UaAOMEAE@C",
+"average_heartrate": 143.1,
+"average_speed": 2.28,
+"elevation_gain": 1.0,
+"source": "strava",
+"streak": 2
 }
 ]
