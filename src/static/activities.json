@@ -22478,5 +22478,37 @@
 "elevation_gain": 1338.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16231521244,
+"name": "Afternoon Trail Run \ud83c\udf1e",
+"distance": 1367.8,
+"moving_time": "1:09:41",
+"type": "Run",
+"start_date": "2025-10-23 06:05:24+00:00",
+"start_date_local": "2025-10-23 14:05:24",
+"location_country": "\u89e3\u767e\u65b0\u4e16\u7eaa, \u89e3\u653e\u8def, \u5cb3\u738b\u8def\u793e\u533a, \u6e56\u6ee8\u8857\u9053, \u4e0a\u57ce\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310009, \u4e2d\u56fd",
+"summary_polyline": "kuswDk_l|USg@?BG?KEB@DJ?r@LVDRGnAG`@A@AAB@G?@GECBBK?UDM?wBz@eBJ?BF?ACFCL?DBsz@|FGBSCOBo@@GEMDSAUHQCc@B]D@DAJOD]MWSg@@a@CICSBGES?CBKB]CKDSRBBMb@@l@AADDA@?EBLFn@?HA@a@COMI[O}AQ_@QGk@Bu@PM?YEk@DKBWGa@Cq@D[JSE[HSLEtACT?RCo@FKEOIDOEDADDLPBJId@A\\?LDB@YAX",
+"average_heartrate": 74.6,
+"average_speed": 0.327,
+"elevation_gain": 3.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 16231521109,
+"name": "Afternoon Trail Run \ud83c\udf19",
+"distance": 4116.2,
+"moving_time": "1:22:45",
+"type": "Run",
+"start_date": "2025-10-23 08:28:53+00:00",
+"start_date_local": "2025-10-23 16:28:53",
+"location_country": "\u72ee\u864e\u6865\u8def, \u7687\u4eb2\u82d1\u793e\u533a, \u5929\u6c34\u8857\u9053, \u62f1\u5885\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310006, \u4e2d\u56fd",
+"summary_polyline": "{yvwDugk|UP@LFBH?PKR?LE\\?JFPLFDFB^@zAB\\C`@@FHN?FDD@?GH?BPDZCHELCL@BMNKJE\\ENItEi@`@Od@EHBDJDb@Ab@Hp@Jd@JdAFlBVjA?jALz@Bb@Gr@Db@Nr@F?ZKPKbBWRITAxBk@J?XNRRLjANj@HN\\NLN@KCDJ@l@QVPJNTFNAJF@BHITGXCP@PIVA?DJCZMJ?JKF?FIZMH?B@?@F?FANIF?@BDMJCFEJEPCRMJDBBAKFSFI\\MN@TCNOT?TM\\GZOLE@C@??@?KROHOLKDOJGX]^WDKDqAA]COFOD_@DCLGTWLCR_@PINSZK|@e@JIf@YZSXIHBJJ@??GLQx@e@LODOJGJOVMFIDeBG]Fa@AAA@DC?CFD@FCBEE?EBACEBN@ATHDVNFFAHMTMFCT@HCNQM??EZOXEz@g@NSTK@C@@@CA?zAyA@CNM`@GT?ZIH@HC@MKS@_@EUAa@BGGFC?e@EK?~AsBBMHHCLIDU`@IDSASMGCA@ACBIB?AA]H_ADUCa@D[AKXGBM?CBOUQKOMEAU@EDADG@WNO?g@PIRKn@HlAAXDHTLB?@AA@j@FNGPQXEMClAtBAGHOEK?_@DCN[LIL??DD@ALBHCF?JBAACFE?CQK?KMIBBAA@ACA@BA?@@CABBGAEGGWGI?BACE?D@EGA_AME@EBC@BADDDCAFI@y@RUNEBILCFDT?PGP@XGZDP?\\Lf@CXBXG\\EXDZ?PNlBg@rAs@IB[DECGDNAd@JXGX?d@AJCLFFASu@Gm@?MJe@MkAEy@C]?MBMJKVIZ?`@IT?b@HZAr@F?C@?",
+"average_heartrate": 74.0,
+"average_speed": 0.829,
+"elevation_gain": 47.0,
+"source": "strava",
+"streak": 1
 }
 ]
