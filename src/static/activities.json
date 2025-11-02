@@ -22606,5 +22606,21 @@
 "elevation_gain": 18.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 16317243817,
+"name": "Morning Trail Run \ud83c\udf25\ufe0f",
+"distance": 999.4,
+"moving_time": "0:10:17",
+"type": "Run",
+"start_date": "2025-11-01 02:45:58+00:00",
+"start_date_local": "2025-11-01 10:45:58",
+"location_country": "\u4e1c\u5b5a\u8857\u9053, \u5929\u7afa\u5c71\u6797\u573a, \u6d77\u6ca7\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "m}`uCymtnU@NDFDHQ`@FZVLJAZBTFT\\JHPb@D@L@R?RQJAABFKnAq@RGTQl@?HC\\[JGRENIN_@Hg@FGz@]l@MNIP_Af@y@Dg@Pq@KG[DMAc@@QDMZQZQRUb@AAAEEg@AAK@CDE@LFCIPAIXIDBEB?HOKJAEABBFHE?UCH?LABACC@@P?QBDEW?}@IAEDCECMJt@HBADMQA??@",
+"average_heartrate": 100.8,
+"average_speed": 1.62,
+"elevation_gain": 10.0,
+"source": "strava",
+"streak": 2
 }
 ]
