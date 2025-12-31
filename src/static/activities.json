@@ -23278,5 +23278,37 @@
 "elevation_gain": 332.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 16881324067,
+"name": "Afternoon Run \ud83c\udf1e",
+"distance": 1771.4,
+"moving_time": "0:20:49",
+"type": "Run",
+"start_date": "2025-12-29 05:10:51+00:00",
+"start_date_local": "2025-12-29 13:10:51",
+"location_country": "\u4e07\u8c61\u57ce, \u79be\u7965\u4e1c\u8def, \u90a3\u5962, \u68a7\u6751\u8857\u9053, \u53a6\u95e8\u5e02, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd\u5927\u9646, 361004, \u4e2d\u56fd",
+"summary_polyline": "gektCinzoUBUTWI@AACBLHKBJ?^QH?\\SFKEMD[JCDDLdBJJFRZrAJVHDJZLJVd@D@FT@NHH@LHZ@j@Nh@@n@FN@h@@?@HFRFn@L\\@j@BFFZJVPLF\\I`@?HNZT`APd@@DCN?HLLNBBBDp@GhANr@Hp@E@CPBd@BFJDVl@Lb@?NEx@@XFRAZCJBAAFV\\F^NZ@PBB@THVIIVH`@Ro@m@JQE@B@CAHd@@REnABRFPBZF\\E^@XHl@AZJZFDHRFZA^CLAXD\\DHH^BfAAPGDaARS@IAe@Fu@BYFY?MDSCAFBBTCQFEDPGKD",
+"average_heartrate": 97.6,
+"average_speed": 1.418,
+"elevation_gain": 9.0,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 16883854711,
+"name": "Evening Run \ud83c\udf19",
+"distance": 5005.2,
+"moving_time": "0:27:48",
+"type": "Run",
+"start_date": "2025-12-30 12:33:47+00:00",
+"start_date_local": "2025-12-30 20:33:47",
+"location_country": "\u4e2d\u798f\u57ce, \u6c5f\u5934\u8857\u9053, \u91d1\u5c1a, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "kjotCk|apUJBBHRHFHP|@^n@DDfC^VLd@JZ@NANg@@a@DMDy@Lg@BUJ]B[Nk@Pg@JwATwANIl@ARBjB^^NrAZF@HCDIZyBn@eCd@}@HWZm@z@wBf@gAPg@Js@COCIEYEIg@QCNBHH@TARKPUXMTBPHrAn@~Bt@`Dr@~@LjAFNCHGX_@RIh@Gj@Df@?NGb@c@LEN?jBXx@@t@CNBNJT^FD\\JXBl@^h@VjA@ZBhABpCEt@Bz@HrBFJCx@@L@pACHH@RDBh@A|AFn@@l@FNAv@DrA?zANd@Ln@JRDnAf@PLBAk@Mi@Yq@Qa@K]?cAQg@Ca@?{AIc@?aAIS?[C[@i@C_@?EAACAI?]ECIF[Bs@Bs@C{@?a@BqA@}@GkDEkADiACy@SMQc@Se@G]YQYOISCg@AoADWI[Q]GW@SF_@b@QH_@@oAI[HY^GFWHe@Ae@GgAOeCi@oFmBOEQAO@_@`@QHK@SCw@WQISUKQMq@SSeA]qAQa@ACIBYFQr@HjB`@|@Ht@JrAZBB@FAJg@lAORSKK?DHLBNLHD^BDF?J",
+"average_heartrate": 145.8,
+"average_speed": 3.001,
+"elevation_gain": 25.0,
+"source": "strava",
+"streak": 4
 }
 ]
