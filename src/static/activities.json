@@ -23694,5 +23694,21 @@
 "elevation_gain": 233.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 17235114731,
+"name": "Afternoon Trail Run \u2601\ufe0f",
+"distance": 13463.8,
+"moving_time": "2:14:19",
+"type": "Run",
+"start_date": "2026-01-31 06:36:18+00:00",
+"start_date_local": "2026-01-31 14:36:18",
+"location_country": "\u4f55\u539d, \u83b2\u524d\u8857\u9053, \u524d\u57d4\u6751, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 360008, \u4e2d\u56fd",
+"summary_polyline": "_umtCa_jpUyI~LVEl@j@v@_@f@G|BB\\NtAQt@\\\\KvA?vBFxBQv@Lz@b@T\\hA\\^V^Mf@LTQr@kBr@cDnAgDhAyAx@k@j@}@nBqFpAaDv@wAHMdBc@d@}A^m@^A`Dz@dFb@lG`CbAp@jFhCf@b@fBt@lFhDtClAfIhF|ApAjF~ChBtA`ExBt@p@zObKFLM`@HJpMxIjG`FbC`CbFbGjCtDzBnDb@dAjEnHLt@{@v@D\\pFfKjBvCCTq@l@iAp@}Ah@UX{C|@IR|@rBx@dDi@~@QA?FWg@Lh@b@r@bAjDlDbG|BbEWrDWn@SHIS?o@Y]cAbAS?o@c@[b@cAB}@\\s@QJ_@U[Y^WA}@f@_@Oe@XWvAq@rA?NONOp@_@j@KrAOb@GhBe@^a@`AFtA_@p@Dp@Ch@Yz@Bd@YTNVm@h@k@`AIl@q@x@UbA{@f@O\\m@JX?o@Ah@k@Je@LGEILCKQFc@IUFOKUe@e@b@aAZyA`@s@}Br@e@BaAQc@PiBy@e@k@Yw@OiCsBkBi@oBuBA]n@K@Cs@k@AGIIg@@aAuBe@JsAWoAAFkAkAmDaCa@KqC?m@OAl@I`AB|CEH{@Fo@M[DDiAUkAQE{@Fk@aAiAi@sAn@]\\sAxCaAdAEpAHRb@AFXGf@Xj@Cl@d@fBCd@r@xAHXERHHNfAh@lAn@n@Fh@NLAZa@L@LKPf@DLd@Sf@h@`ACZPRCZ`A|@[^?f@Mh@SFEZ{@hAm@@UNg@Om@DQSu@MYVBn@u@UQPs@LOj@o@TS\\Dv@c@TKd@KCONuBa@e@VWl@sBd@c@j@gAOMe@mBWw@k@]CV@r@j@RC`B\\FH?VnALPW`@[xAUNc@j@_@|@@t@Vf@IHc@b@UDUM]N_@f@QTO?[`Ae@`APKo@\\U|@HHDDPLGlAJ^MZB~@iA?UTMAMWGTDJKBq@\\_@Oe@SA]_@C_@KOH[m@aARWGo@k@KHMAQXAJYQSIk@i@k@Mk@]a@MeAMOFUg@oAWa@A}@]gADm@_@s@He@EWi@EK{B[w@OK?OLME[Ta@bA}@EYn@UMSDICSFWYUN_@Ou@WS_A[OcBHo@",
+"average_heartrate": 148.3,
+"average_speed": 1.671,
+"elevation_gain": 680.0,
+"source": "strava",
+"streak": 3
 }
 ]
