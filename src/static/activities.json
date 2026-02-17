@@ -23934,5 +23934,21 @@
 "elevation_gain": 649.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 17413532955,
+"name": "Afternoon Run \ud83c\udf1e",
+"distance": 5009.2,
+"moving_time": "0:30:15",
+"type": "Run",
+"start_date": "2026-02-16 06:45:44+00:00",
+"start_date_local": "2026-02-16 14:45:44",
+"location_country": "\u897f\u6797, \u5357\u5b89\u5e02, \u6cc9\u5dde\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "}h`xCofirUUPg@v@OE_@y@EUSc@Ka@u@}EASs@gCM_Ag@{AMSMk@Uk@ME[Hg@IW@a@DUNYESH[DEM]Fg@RgA`Ay@\\e@\\_@NURU^KFeAb@y@NODy@h@MNIVE|@CJKPUNY@WHa@p@SZ[TWJ]h@e@RMLe@x@YLOLKRBFE^MjAIf@Qn@?HIb@a@t@QTa@f@]ZmArA[n@Yz@Or@c@~Da@bAMXIFWPs@`@m@TYTc@r@UPe@XMBY?iAF[Fq@Pg@TYPk@L_DXe@Bc@FWF_@LgAf@yBnAwAr@UNABJCh@a@`Bw@rAw@x@Yh@[f@EJCd@?d@Gd@AjAOLERAz@Y\\Uv@QHG^ET@j@Ch@IPKb@c@f@y@VO`@K\\UZKPKx@uBJ{@PcABc@Fa@n@qBNYpAuAjAcBHG^q@D]Pk@Dk@Ha@HoANe@^OHIj@y@d@[N]LQZMTSt@iAHEJATBJAHENSHUHkAV]LIRUf@Q`ASVQ\\KFEZc@ZWPIr@i@t@]\\WJORQh@QZChAUn@a@j@?n@IJ?FFLZF\\Rl@Zj@ZtAHr@P`@f@~BHl@JXFd@HTNn@D`@N`@Hj@",
+"average_heartrate": 145.5,
+"average_speed": 2.76,
+"elevation_gain": 32.0,
+"source": "strava",
+"streak": 2
 }
 ]
