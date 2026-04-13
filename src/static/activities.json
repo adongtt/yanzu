@@ -24494,5 +24494,21 @@
 "elevation_gain": 491.0,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 18080350802,
+"name": "Afternoon Trail Run \ud83c\udf1e",
+"distance": 2205.9,
+"moving_time": "0:27:59",
+"type": "Run",
+"start_date": "2026-04-12 07:27:49+00:00",
+"start_date_local": "2026-04-12 15:27:49",
+"location_country": "\u6587\u5174\u897f\u8def, \u83b2\u524d\u8857\u9053, \u524d\u57d4\u6751, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361008, \u4e2d\u56fd",
+"summary_polyline": "kdktC}ecpUAB?JVF\\\\RLPGl@HRJb@HFDARCH@BN?v@HZ]RIFKj@QXAXIDE?QDINEXURCFHDCh@DLHN?LFHALKHBH_@VULEBQIa@JE?KBIf@QJIJM@ECIFIDCDBLOXELKJDFFXCDJDABKKS?KNWPBDALA@DHBTA?DLNLA@CPBFE@@P@DAD@LDBDA?@ED?BGD?RAJDJAFEBORM@INK@ENM?CCC@ITMCOFG?EJUEQ?GHIBMLG?IMYG@GCS]G?EK?WKS@_@IKCMQKIQACROBKKe@W?UQ?GJECI@GLGT?@OAOIIEIAMGE@GGIG?EECMY]E[MGO_@?SGQ@CEKAMIQBM[u@M]Ua@?KBKEg@Ea@IUAEIEAIDa@CKUg@@SDQEICUGAWDKUAQ@{@JS^W^i@Hg@PYBQb@y@TMFMTQf@KLEDIACSOISIc@Bg@CGYMOEEEsA[QAk@Me@CQE@GEGG{@Bm@N[",
+"average_heartrate": 145.1,
+"average_speed": 1.314,
+"elevation_gain": 214.0,
+"source": "strava",
+"streak": 9
 }
 ]
