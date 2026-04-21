@@ -24606,5 +24606,21 @@
 "elevation_gain": 28.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18193501522,
+"name": "Lunch Run \ud83c\udf25\ufe0f",
+"distance": 3038.0,
+"moving_time": "0:28:49",
+"type": "Run",
+"start_date": "2026-04-21 03:58:31+00:00",
+"start_date_local": "2026-04-21 11:58:31",
+"location_country": "\u5927\u7901, \u83b2\u524d\u8857\u9053, \u53a6\u95e8\u5e02, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 360008, \u4e2d\u56fd",
+"summary_polyline": "i`ntCwjkpU@Bv@@@d@AJKNAFKC]Li@GYBCBa@Aq@Ka@B]AYDe@ABAKHMBCASLa@NOLUJSDIDGEBRHJ@HJb@?RM?CCOBIM_@Tc@BKA]D_@RGFm@LKDC?AEGEKCID@EGCI@YI_AFCCGBY@UFIBY\\I@cAKM@U?i@LUGC@AHIJOHy@?QCo@AUEY@UNYJi@ZABGBBDJ??fBHN@DFFFj@DDB?G?GEIBEVDP?L@FCFa@\\UX[BEFc@JOFSOa@IDGBSRCK?C@B@?CA?Iu@GOEBSl@Wc@QOILKBMAa@Y@HBB@E@BFCNWHi@NYBMIET[DQ@[VgAbChD@H[n@CP[d@KFe@HKDMLLJRFBDRAf@B^PJHH?JBTPJBR?d@@BBHEJFFAN?FEL?HENCR@LIRCF@NJPDh@B\\Pb@Jp@Vb@Bj@LZ?^Id@HdA@h@Ib@Cv@SV@`@M|@?bBU\\KXE^MJANKPETDJEJ@f@IVI`@HHA@KE{@?u@BMNSHU@m@DY@eCJc@@CD[AWGS?SDi@H]DGB_@?UD]NQHSBYBEA]CAFF",
+"average_heartrate": 98.3,
+"average_speed": 1.757,
+"elevation_gain": 24.0,
+"source": "strava",
+"streak": 1
 }
 ]
