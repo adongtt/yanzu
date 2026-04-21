@@ -24590,5 +24590,21 @@
 "elevation_gain": 246.0,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18180009471,
+"name": "Afternoon Trail Run",
+"distance": 1322.4,
+"moving_time": "0:46:17",
+"type": "Run",
+"start_date": "2026-04-19 06:39:51+00:00",
+"start_date_local": "2026-04-19 14:39:51",
+"location_country": "\u83b2\u524d\u8857\u9053, \u4e1c\u576a\u5c71\u793e, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361005, \u4e2d\u56fd",
+"summary_polyline": "ctetCyr_pUEF?XGZQLGROA@CTBAH?O@@?CCDDEB@AD@@AAJHBJ?\\DLCJI@UIc@EaBIM@EERoBA[Bg@V]DANDAKEIHQJg@PSJWA_@D_@?q@HI^MRMF?D@DIXWBc@FIPIFIACDK?]NQBGBAN@HEHKHWDCj@?XIHGDk@CO@SDKDc@Tu@b@aAJ[FDBTB@FLD@NOFBB?HKJFHG@GFAH?@B?IBB?AFA@DBEB?HFBDLKD@?E@@BCDFD@?DD@EA?@@CBDDABB?AABBFGBFB?BDFEA?BFC?B?EC@?CFABID?DEAKGCAABA?@C?HBJEC@EDEACI@E@D?OI@GEBEEI@CDC@@EB?DAEBBAJJD@BCDBC@BA@@^IZBDGHDH?H@A@FABCAABAFDJE@BFC@@BCDBJGHBF",
+"average_heartrate": 95.9,
+"average_speed": 0.476,
+"elevation_gain": 28.0,
+"source": "strava",
+"streak": 2
 }
 ]
